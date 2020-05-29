@@ -1,0 +1,6 @@
+<view class="container">
+  <image src="{{thisWeekMovie.imagePath}}"></image>
+  <text>{{thisWeekMovie.name}}</text>
+  <text>{{thisWeekMovie.text}}</text>
+  <text>{{(thisWeekMovie.score > 60) ? '及格':'不及格'}}</text>
+</view>
