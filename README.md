@@ -1,1 +1,3 @@
-# Watch-movies-weekly
+# 每日推荐电影小程序
+
+* 该项目是学习小程序开发的一个练手demo
